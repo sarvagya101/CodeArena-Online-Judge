@@ -160,7 +160,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## 👤 Author
 
-**Sarvagya Sharma**
+**Sarvagya Sharma**<br>
 
 B.Tech CSE student at Delhi Technological University
 
