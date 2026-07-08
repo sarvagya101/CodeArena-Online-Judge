@@ -161,6 +161,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 👤 Author
 
 **Sarvagya Sharma**
+B.Tech CSE student at Delhi Technological University
 
 - GitHub: [@sarvagya101](https://github.com/sarvagya101)
 - LinkedIn: [Sarvagya Sharma](https://www.linkedin.com/in/sarvagya-sharma-643946377/)
