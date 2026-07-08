@@ -1,0 +1,26 @@
+{
+  "name": "codearena-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "CodeArena — online judge API (Express + MongoDB, Docker-sandboxed code execution)",
+  "author": "Sarvagya Sharma <sarvagya101@gmail.com> (https://github.com/sarvagya101)",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "mongoose": "^9.7.4"
+  }
+}
