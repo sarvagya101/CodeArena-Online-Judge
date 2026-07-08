@@ -171,7 +171,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 🙏 Acknowledgments
 
 - Built as a modernization of the original OnlineJudge_MERN project.
-- <!-- Add any other credits, inspirations, or resources here -->
 
 <div align="center">
 
